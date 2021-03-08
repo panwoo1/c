@@ -1,0 +1,6 @@
+banana 7개
+mango 15개
+apple 19개
+blueberry 11개
+orange 9개
+melon 11개

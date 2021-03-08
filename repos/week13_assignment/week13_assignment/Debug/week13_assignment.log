@@ -1,0 +1,7 @@
+﻿  find_people.cpp
+C:\Users\임찬우\source\repos\week13_assignment\week13_assignment\find_people.cpp(48,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\week13_assignment\week13_assignment\find_people.cpp(107,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\week13_assignment\week13_assignment\find_people.cpp(218,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\week13_assignment\week13_assignment\find_people.cpp(259,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\week13_assignment\week13_assignment\find_people.cpp(271,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  week13_assignment.vcxproj -> C:\Users\임찬우\source\repos\week13_assignment\Debug\week13_assignment.exe

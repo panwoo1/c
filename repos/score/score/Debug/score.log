@@ -1,0 +1,5 @@
+﻿  score.cpp
+C:\Users\임찬우\source\repos\score\score\score.cpp(36,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\score\score\score.cpp(66,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임찬우\source\repos\score\score\score.cpp(78,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  score.vcxproj -> C:\Users\임찬우\source\repos\score\Debug\score.exe
